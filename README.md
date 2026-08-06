@@ -21,25 +21,7 @@ Each solution includes:
 - ✅ Problem Statement
 - ✅ Java Solution
 - ✅ Brief Explanation
-- ✅ Time & Space Complexity (where applicable)
-
-Example:
-
-```
-Arrays/
-│── Two Sum/
-│   ├── Solution.java
-│   └── README.md
-
-Strings/
-│── Valid Palindrome/
-│   ├── Solution.java
-│   └── README.md
-
-Linked Lists/
-Trees/
-Dynamic Programming/
-```
+- ✅ Time & Space Complexity
 
 ---
 
