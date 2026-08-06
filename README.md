@@ -25,28 +25,6 @@ Each solution includes:
 
 ---
 
-## 📖 Solution Format
-
-Each problem folder contains:
-
-### Problem
-A short description of the problem.
-
-### Approach
-A brief explanation of the logic used to solve it.
-
-### Algorithm
-Step-by-step explanation of the solution.
-
-### Complexity
-- Time Complexity: O(...)
-- Space Complexity: O(...)
-
-### Code
-Java implementation.
-
----
-
 ## 📚 Topics Covered
 
 - Arrays
