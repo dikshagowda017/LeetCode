@@ -1,9 +1,6 @@
 import java.util.HashMap;
-
 class Solution {
-
     public int[] twoSum(int[] nums, int target) {
-
         // --------------------------------------------------
         // STEP 1 : Create a HashMap
         // --------------------------------------------------
@@ -29,8 +26,6 @@ class Solution {
         // whether another number already exists.
         //
         HashMap<Integer, Integer> map = new HashMap<>();
-
-
         // --------------------------------------------------
         // STEP 2 : Traverse the array
         // --------------------------------------------------
